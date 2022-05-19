@@ -13,6 +13,8 @@ The architectures of these two models are analysed, studied about the training a
 
 <h3><b><u>Dataset:</u></b></h3>
 
+<h3><a href="https://huggingface.co/datasets/emotion" style="color: blue"><b><u>Hugging Face Emotion Dataset</u></b></a></h3>
+
 Emotion is a dataset of English Twitter messages with six basic emotions: anger, fear, joy,love, sadness, and surprise. 
 
 we will be using the Human Emotions datasets from the hugging face library.
